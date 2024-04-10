@@ -8,6 +8,8 @@ Evaluation of model performance was conducted using a variety of metrics on the 
 
 Used these algorithms:
 
+
+
 1.Linear Regression
 2.KNN
 3. Decision Trees
@@ -16,6 +18,7 @@ Used these algorithms:
 
 
 Evaluated the models using:
+
 
 1.Accuracy Score
 2.Jaccard Index
